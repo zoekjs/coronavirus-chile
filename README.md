@@ -6,7 +6,7 @@ Proyecto realizado en Abril del 2020 para trackear el coronavirus en Chile, usan
   - https://prnt.sc/wffj8r
   
 
-## Cómo probar el proyecto?
+# Cómo probar el proyecto?
 # 1.- Instalar python3, pip3 y virtualenv
   - sudo apt-get install pip3
   - sudo apt-get install python3-virtualenv
@@ -28,4 +28,9 @@ Proyecto realizado en Abril del 2020 para trackear el coronavirus en Chile, usan
 # 6.- Correr la aplicación
 
   - `En Windows:` 
-  > C:\Users\Name\djangogirls> myvenv\Scripts\activate
+          > C:\path\to\app>set FLASK_APP=corona.py
+          > python3 flask run
+          
+  - `En linux:`
+          > set FLASK_APP="corona.py"
+          > python3 flask run
