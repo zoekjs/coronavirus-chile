@@ -27,4 +27,5 @@ Proyecto realizado en Abril del 2020 para trackear el coronavirus en Chile, usan
   
 # 6.- Correr la aplicación
 
-  - `En Windows:` > C:\Users\Name\djangogirls> myvenv\Scripts\activate
+  - `En Windows:` 
+  > C:\Users\Name\djangogirls> myvenv\Scripts\activate
