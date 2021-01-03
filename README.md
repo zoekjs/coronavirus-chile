@@ -29,9 +29,8 @@ Proyecto realizado en Abril del 2020 para trackear el coronavirus en Chile, usan
 
   - `En Windows:` 
           ```
-          C:\path\to\app>set FLASK_APP=corona.py
-          
-          python3 flask run
+            - C:\path\to\app>set FLASK_APP=corona.py
+            - python3 flask run
           ```
           
   - `En linux:`
