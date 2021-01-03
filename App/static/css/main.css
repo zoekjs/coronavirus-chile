@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans+Extra+Condensed&display=swap');
+
+h1{
+    /*font-family: 'Permanent Marker', cursive;*/
+     font-family: 'Teko', sans-serif;
+     font-weight: bolder;
+}
+td, th{
+   /* font-family: 'Bebas Neue', cursive;*/
+   font-family: 'Fira Sans Extra Condensed', sans-serif;
+}
+.parallax-container.mid{
+    height: 200px;
+}
+@media only screen and (max-width: 414px) {
+    html {
+      font-size: 12px !important;
+    }
+  }
